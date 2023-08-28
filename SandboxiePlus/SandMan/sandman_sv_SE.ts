@@ -563,17 +563,17 @@ Detta säkerställer den yttersta nivån av integritets- och dataskydd inom den 
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="334"/>
         <source>Application Compartment Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Applikationutrymmeslåda</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="335"/>
         <source>Confidential Encrypted Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfidentiell krypterad låda</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="451"/>
         <source>To use ancrypted boxes you need to install the ImDisk driver, do you want to download and install it?</source>
-        <translation type="unfinished"></translation>
+        <translation>För att använda krypterade lådor behöver du installera ImDisk:s drivrutin, vill du nedladda och installera den?</translation>
     </message>
     <message>
         <source>Application Compartment (NO Isolation)</source>
@@ -605,7 +605,7 @@ Detta säkerställer den yttersta nivån av integritets- och dataskydd inom den 
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="848"/>
         <source>Configure web browser template options.</source>
-        <translation>Konfigurera webbläsarens mallalternativ.</translation>
+        <translation>Konfigurera webbläsarmallalternativ.</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="858"/>
@@ -801,7 +801,7 @@ Vänligen gå till korrekt användarprofilskatalog.</translation>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="262"/>
         <source>Retrieve certificate using Serial Number:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hämta certifikat användandes serienummer:</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="268"/>
@@ -821,18 +821,19 @@ Vänligen gå till korrekt användarprofilskatalog.</translation>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="347"/>
         <source>Failed to retrive the certificate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lyckades inte hämta certifikatet.</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="348"/>
         <source>
 Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Fel: %1</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="363"/>
         <source>Retreiving certificate...</source>
-        <translation type="unfinished"></translation>
+        <translation>Hämtar certifikat...</translation>
     </message>
 </context>
 <context>
@@ -855,7 +856,9 @@ Error: %1</source>
         <source>Thank you for using the Troubleshooting Wizard for Sandboxie-Plus. We apologize for any inconvenience you experienced during the process. If you have any additional questions or need further assistance, please don&apos;t hesitate to reach out. We&apos;re here to help. Thank you for your understanding and cooperation. 
 
 You can click Finish to close this wizard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tack för att du använde felsökningsguiden för Sandboxie-Plus. Ursäkta för eventuellt besvär du erfor under processen. Om du har fler frågor eller behöver ytterligare assistans, tveka inte att ta kontakt, vi finns här för att hjälpa. Tack för din förståelse och ditt samarbete.
+	
+Du kan klicka på Avsluta för att stänga denna guide.</translation>
     </message>
     <message>
         <source>Thank you for using the Troubleshooting Wizard for Sandboxie-Plus. We apologize for any inconvenience you experienced during the process.If you have any additional questions or need further assistance, please don&apos;t hesitate to reach out. We&apos;re here to help. Thank you for your understanding and cooperation. 
@@ -1092,7 +1095,7 @@ Du kan använda %ANVÄNDARE% för att spara varje användares sandlåda till en 
     <message>
         <location filename="OnlineUpdater.cpp" line="192"/>
         <source>Failed to download file from: %1</source>
-        <translation type="unfinished">Misslyckades att nedladda fil från: %1</translation>
+        <translation>Misslyckades att nedladda filen från: %1</translation>
     </message>
 </context>
 <context>
